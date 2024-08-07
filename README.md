@@ -8,3 +8,26 @@ This project analyzes fashion products on Tiki, focusing on price trends, custom
 - **Time-Based Analysis:** Explore sales and rating trends over time, with a focus on quarterly performance starting from 2018.
 - **Seller Performance:** Evaluate the performance of sellers with a significant number of sales.
 - **Text Analysis on Product Descriptions:** Perform sentiment and keyword analysis on Vietnamese product descriptions.
+
+# Data 
+Source: (https://www.kaggle.com/datasets/michaelminhpham/vietnamese-tiki-e-commerce-dataset/data). 
+
+The dataset includes the following features:
+- id
+- name
+- description
+- original_price
+- price
+- fulfillment_type
+- brand
+- review_counts
+- rating_average
+- favourite_count
+- pay_later
+- current_seller
+- date_created
+- number_of_images
+- vnd_cashback
+- has_video
+- quantity_sold
+- type
